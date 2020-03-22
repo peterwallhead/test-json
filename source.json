@@ -1,11 +1,18 @@
 [
   {
-    "company_name":"Panubo",
-    "company_url":"panubo.io",
-    "title":"Cloud Engineer",
-    "country":"",
-    "remote":true,
-    "job_description_url":"https://panubo.io/s/Platform_Cloud-Engineer-Job-Description.pdf",
-    "job_contact":"jobs@panubo.com"
-  }
+    id: 1,
+    title: "Cloud Engineer",
+    company_name: "Panubo",
+    company_url: "https://panubo.io/",
+    job_description_url: "https://panubo.io/",
+    job_contact: "jobs@panubo.com",
+    country: "Australia",
+    location: null,
+    remote: true,
+    externally_sourced: true,
+    external_source_name: "AirTree "Startups Hiring Through COVID-19"",
+    external_source_url: "https://docs.google.com/spreadsheets/d/1nHDMTU3ynRUtweuelz6hYgeDIccoZjRGe7HMGNEOQWU/edit",
+    created_date: "2020-03-22T03:24:49Z",
+    updated_date: null
+   }
 ]
